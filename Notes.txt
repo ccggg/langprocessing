@@ -12,6 +12,17 @@ Topic modelling (scikit-learn) : Latent Dirichlet Allocation
 
 Term Exctraction / Keyword Extraction : ? (Find best available Python library)
 
+topia.termextract
+https://pypi.python.org/pypi/topia.termextract/
+
+Rapid Automatic Keyword Extraction (RAKE)
+https://www.airpair.com/nlp/keyword-extraction-tutorial
+http://www.mohamedrabeea.com/books/book1_1165.pdf - Text Mining Applications and Theory pdf
+https://github.com/aneesha/RAKE/blob/master/rake.py - Implementation of RAKE
+
+http://textminingonline.com/getting-started-with-keyword-extraction
+
+https://textblob.readthedocs.io/en/dev/
 
 
  Run Python File using Anaconda : 
