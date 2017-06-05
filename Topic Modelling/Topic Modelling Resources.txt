@@ -1,0 +1,6 @@
+Latent Dirichlet Allocation (LDA)
+https://rstudio-pubs-static.s3.am azonaws.com/79360_850b2a69980c4488b1db95987a24867a.html
+http://scikit-learn.org/stable/auto_examples/applications/topics_extraction_with_nmf_lda.html)
+
+Non-Negative Matrix Factorisation (NMF)
+http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html
