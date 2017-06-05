@@ -1,0 +1,20 @@
+This is the computer science department. We are in Ormskirk.
+
+
+
+Topic modelling (scikit-learn) : Latent Dirichlet Allocation
+
+	(Example of LDA topic modelling in Python : http://scikit-learn.org/stable/auto_examples/applications/topics_extraction_with_nmf_lda.html) 
+
+
+	sklearn NMF, LatentDirichletAllocation
+
+
+Term Exctraction / Keyword Extraction : ? (Find best available Python library)
+
+
+
+ Run Python File using Anaconda : 
+
+d:\anaconda\python.exe "My Documents\Python\TestAnaconda.py"
+d:\anaconda\python.exe ".\TestAnaconda.py"
