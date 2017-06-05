@@ -4,3 +4,6 @@ http://scikit-learn.org/stable/auto_examples/applications/topics_extraction_with
 
 Non-Negative Matrix Factorisation (NMF)
 http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html
+
+NMF vs LDA
+https://www.quora.com/What-is-the-difference-between-NMF-and-LDA-Why-are-the-priors-of-LDA-sparse-induced#

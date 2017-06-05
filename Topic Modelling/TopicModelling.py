@@ -3,6 +3,8 @@
 #         Chyi-Kwei Yau <chyikwei.yau@gmail.com>
 # License: BSD 3 clause
 
+# Topic extraction with Non-negative Matrix Factorisation and Latent Dirichlet Allocation
+
 from __future__ import print_function
 from time import time
 
@@ -15,7 +17,7 @@ import logging
 n_samples = 2000
 n_features = 1000
 n_topics = 10
-n_top_words = 20
+n_top_words = 100
 
 def print_top_words(model, feature_names, n_top_words):
     for topic_idx, topic in enumerate(model.components_):
@@ -40,6 +42,7 @@ data_samples = dataset.data[:n_samples]
 print("done in %0.3fs." % (time() - t0))
 
 # Use tf-idf features for NMF.
+# http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
 print("Extracting tf-idf features for NMF...")
 tfidf_vectorizer = TfidfVectorizer(max_df=0.95, min_df=2,
                                    max_features=n_features,
