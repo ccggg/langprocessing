@@ -4,13 +4,17 @@ This is the computer science department. We are in Ormskirk.
 
 Topic modelling (scikit-learn) : Latent Dirichlet Allocation
 
-	(Example of LDA topic modelling in Python : http://scikit-learn.org/stable/auto_examples/applications/topics_extraction_with_nmf_lda.html)
+(Example of LDA topic modelling in Python : http://scikit-learn.org/stable/auto_examples/applications/topics_extraction_with_nmf_lda.html)
 
-
-	sklearn NMF, LatentDirichletAllocation
+sklearn NMF, LatentDirichletAllocation
 
 
 Term Exctraction / Keyword Extraction : ? (Find best available Python library)
+
+Keyword extraction is tasked with the automatic identification of terms that best describe the subject of a document.
+Key phrases, key terms, key segments or just keywords are the terminology which is used for defining the terms that represent the most relevant information contained in the document.
+Although the terminology is different, function is the same: characterization of the topic discused in a document.
+Keyword extraction task is important problem in Text Mining, Information Retrieval and Natural Language Processing. - http://textminingonline.com/getting-started-with-keyword-extraction
 
 topia.termextract
 https://pypi.python.org/pypi/topia.termextract/
@@ -18,13 +22,14 @@ https://pypi.python.org/pypi/topia.termextract/
 Rapid Automatic Keyword Extraction (RAKE)
 https://www.airpair.com/nlp/keyword-extraction-tutorial
 http://www.mohamedrabeea.com/books/book1_1165.pdf - Text Mining Applications and Theory pdf
-https://github.com/aneesha/RAKE/blob/master/rake.py - Implementation of RAKE
+https://github.com/aneesha/RAKE/blob/master/rake.py - RAKE
 
 http://textminingonline.com/getting-started-with-keyword-extraction
 
 https://textblob.readthedocs.io/en/dev/
 
-NLTK
+NLTK ??
+Natural Language Toolkit
 http://www.nltk.org/
 
 

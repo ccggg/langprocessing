@@ -22,10 +22,9 @@ text = "Compatibility of systems of linear constraints over the set of natural n
        "for constructing a minimal supporting set of solutions can be used in solving all the considered types of " \
        "systems and systems of mixed types."
 
-
-
-# Split the text into sentences
+# Split the text into 'sentences', searches for punctuation which would end a 'sentence' (.!?:;, etc)
 sentenceList = rake.split_sentences(text)
+#print(sentenceList)
 
 stopwordpattern = rake.build_stop_word_regex(stoppath)
 
