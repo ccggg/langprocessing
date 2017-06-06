@@ -23,12 +23,13 @@ text = "Compatibility of systems of linear constraints over the set of natural n
        "systems and systems of mixed types."
 
 
+
 # Split the text into sentences
 sentenceList = rake.split_sentences(text)
 
 stopwordpattern = rake.build_stop_word_regex(stoppath)
 
-phraseList = rake.generate_candidate_keywords(sentenceList, stopwordpattern, rake.load_stop_words(stoppath), 4)
+phraseList = rake.generate_candidate_keywords(sentenceList, stopwordpattern)
 
 wordscores = rake.calculate_word_scores(phraseList)
 
@@ -37,5 +38,5 @@ keywordcandidates = rake.generate_candidate_keyword_scores(phraseList, wordscore
 sortedKeywords = sorted(six.iteritems(keywordcandidates), key=operator.itemgetter(1), reverse=True)
 totalKeywords = len(sortedKeywords)
 
-for keyword in sortedKeywords[0:(totalKeywords // 3)]:
+for keyword in sortedKeywords[0:(totalKeywords)]:
     print("Keyword: ", keyword[0], " | Score: ", keyword[1])
