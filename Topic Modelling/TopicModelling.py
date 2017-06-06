@@ -16,8 +16,8 @@ import logging
 
 n_samples = 2000
 n_features = 1000
-n_topics = 10
-n_top_words = 100
+n_topics = 15
+n_top_words = 30
 
 def print_top_words(model, feature_names, n_top_words):
     for topic_idx, topic in enumerate(model.components_):
