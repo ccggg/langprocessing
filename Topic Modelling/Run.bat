@@ -1,2 +1,2 @@
-d:\anaconda\python.exe ".\TopicModelling.py"
+d:\Anaconda2\python.exe ".\TopicModelling.py"
 pause

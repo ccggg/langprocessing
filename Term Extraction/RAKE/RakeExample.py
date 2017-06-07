@@ -1,41 +1,56 @@
-# https://www.airpair.com/nlp/keyword-extraction-tutorial
-
-from __future__ import absolute_import
-from __future__ import print_function
-import six
+# https://pdfs.semanticscholar.org/5a58/00deb6461b3d022c8465e5286908de9f8d4e.pdf
 
 import Rake as rake
+
+import nltk
+#nltk.download()
+from nltk.tag import pos_tag
+
+# https://docs.python.org/2/library/operator.html
 import operator
-import io
+
+# https://pythonhosted.org/six/
+import six
 
 # https://en.wikipedia.org/wiki/Stop_words
-stoppath = "SmartStoplist.txt"
+stopPath = "SmartStoplist.txt"
 
 # Stop words, min characters, min words in phrase, min times word appears in text
-rake_object = rake.Rake(stoppath)
+rake_object = rake.Rake(stopPath)
 
-# Body of text
-text = "Compatibility of systems of linear constraints over the set of natural numbers. Criteria of compatibility " \
-       "of a system of linear Diophantine equations, strict inequations, and nonstrict inequations are considered. " \
-       "Upper bounds for components of a minimal set of solutions and algorithms of construction of minimal generating"\
-       " sets of solutions for all types of systems are given. These criteria and the corresponding algorithms " \
-       "for constructing a minimal supporting set of solutions can be used in solving all the considered types of " \
-       "systems and systems of mixed types."
+# Text which they keywords will be selected from
+text = "My dog also likes eating sausage."
 
 # Split the text into 'sentences', searches for punctuation which would end a 'sentence' (.!?:;, etc)
 sentenceList = rake.split_sentences(text)
 #print(sentenceList)
 
-stopwordpattern = rake.build_stop_word_regex(stoppath)
+# Generate the candidate keywords from the sentence list using the SmartStopList
+stopwordPattern = rake.build_stop_word_regex(stopPath)
+phraseList = rake.generate_candidate_keywords(sentenceList, stopwordPattern)
 
-phraseList = rake.generate_candidate_keywords(sentenceList, stopwordpattern)
+# Calculate the word scores of the candidate keywords
+wordScores = rake.calculate_word_scores(phraseList)
 
-wordscores = rake.calculate_word_scores(phraseList)
+# Generate the candidate keyword scores
+keywordCandidates = rake.generate_candidate_keyword_scores(phraseList, wordScores)
 
-keywordcandidates = rake.generate_candidate_keyword_scores(phraseList, wordscores)
-
-sortedKeywords = sorted(six.iteritems(keywordcandidates), key=operator.itemgetter(1), reverse=True)
+# Sort candidates by score to determine top-scoring keywords
+sortedKeywords = sorted(six.iteritems(keywordCandidates), key = operator.itemgetter(1), reverse = True)
 totalKeywords = len(sortedKeywords)
 
+# Display all the keywords along with their scores
 for keyword in sortedKeywords[0:(totalKeywords)]:
-    print("Keyword: ", keyword[0], " | Score: ", keyword[1])
+    print "Keyword: ", keyword[0],
+    print " |  Score: ", keyword[1]
+
+    # https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+    # Use NLTK to create a tag for each keyword (Verb, Adjective, Noun, etc)
+    # JJ - Adjective, DT - Determiner, NN - Noun, VB - Verb
+    tagged_sent = pos_tag(keyword[0].split())
+    print tagged_sent
+
+
+# Other Resources
+# Topic Modelling - https://en.wikipedia.org/wiki/Topic_model
+# LDA - https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
