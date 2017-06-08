@@ -19,7 +19,10 @@ stopPath = "SmartStoplist.txt"
 rake_object = rake.Rake(stopPath)
 
 # Text which they keywords will be selected from
-text = "My dog also likes eating sausage."
+text = ""
+
+# Take input from a user for the text string
+text = raw_input("Enter a string: ")
 
 # Split the text into 'sentences', searches for punctuation which would end a 'sentence' (.!?:;, etc)
 sentenceList = rake.split_sentences(text)
@@ -49,7 +52,6 @@ for keyword in sortedKeywords[0:(totalKeywords)]:
     # JJ - Adjective, DT - Determiner, NN - Noun, VB - Verb
     tagged_sent = pos_tag(keyword[0].split())
     print tagged_sent
-
 
 # Other Resources
 # Topic Modelling - https://en.wikipedia.org/wiki/Topic_model

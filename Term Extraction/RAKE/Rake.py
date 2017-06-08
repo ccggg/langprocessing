@@ -4,6 +4,8 @@
 # Automatic keyword extraction from indi-vidual documents.
 # In M. W. Berry and J. Kogan (Eds.), Text Mining: Applications and Theory.unknown: John Wiley and Sons, Ltd.
 # https://pdfs.semanticscholar.org/5a58/00deb6461b3d022c8465e5286908de9f8d4e.pdf
+# https://github.com/aneesha/RAKE/blob/master/rake.py
+# https://pypi.python.org/pypi/python-rake/1.0.7
 
 import re
 import operator
@@ -56,7 +58,6 @@ def split_sentences(text):
     return sentences
 
 
-
 def build_stop_word_regex(stop_word_file_path):
     stop_word_list = load_stop_words(stop_word_file_path)
     stop_word_regex_list = []
@@ -80,6 +81,9 @@ def generate_candidate_keywords(sentence_list, stopword_pattern):
 
 
 def calculate_word_scores(phraseList):
+    '''
+
+    '''
     word_frequency = {}
     word_degree = {}
     for phrase in phraseList:
