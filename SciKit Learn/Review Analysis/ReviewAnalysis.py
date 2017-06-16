@@ -25,25 +25,24 @@ movie_tfidf = tfidf_transformer.fit_transform(movie_counts)
 
 clf = MultinomialNB().fit(movie_tfidf, movie_train.target)
 
-reviews_new = ["It was a decent movie.",
+data_input = [ "Excellent movie.",
                "I loved the movie.",
                "The movie was pretty poor.",
                "Bad.",
                "Eh.",
+               "The movie was great",
                "Could have been better.",
-               "Good.",
+               "Fantastic.",
                "Not good.",
                "Best film I have ever seen.",
-               "4/10",
-               "7/10",
                "Nice."]
 
-reviews_new_counts = movie_vec.transform(reviews_new)
-reviews_new_tfidf = tfidf_transformer.transform(reviews_new_counts)
+data_input_counts = movie_vec.transform(data_input)
+data_input_tfidf = tfidf_transformer.transform(data_input_counts)
 
-pred = clf.predict(reviews_new_tfidf)
+pred = clf.predict(data_input_tfidf)
 
-for review, category in zip(reviews_new, pred):
+for review, category in zip(data_input, pred):
     print review
     print "This is a", movie_train.target_names[category], "review."
     print ""
