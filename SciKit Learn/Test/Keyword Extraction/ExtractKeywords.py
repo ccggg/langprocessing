@@ -15,6 +15,8 @@ import six
 
 import os
 
+import re
+
 # https://en.wikipedia.org/wiki/Stop_words
 stopPath = "SmartStoplist.txt"
 
@@ -22,16 +24,17 @@ stopPath = "SmartStoplist.txt"
 rake_object = rake.Rake(stopPath)
 
 file_dir = 'Z:/My Documents/Python/SciKit Learn/Test/scenes'
+f = open("Z:/My Documents/Python/SciKit Learn/Test/keywords/keywords.txt", "w+")
 for file in os.listdir(file_dir):
     with open(file_dir + '/' + file, 'r', encoding='utf-8-sig') as open_file:
-        for line_terminated in open_file:
-            line = line_terminated.rstrip('\n').lower()
-            print 'Old > ' + line
+        for line in open_file:
+            #line = line_terminated
+            #print 'Old > ' + line
             #sentence = open_file.readlines()
             # Split the text into 'sentences', searches for punctuation which would end a 'sentence' (.!?:;, etc)
             sentenceList = rake.split_sentences(line)
             #print(sentenceList)
-
+            #print open_file
             # Generate the candidate keywords from the sentence list using the SmartStopList
             stopwordPattern = rake.build_stop_word_regex(stopPath)
             phraseList = rake.generate_candidate_keywords(sentenceList, stopwordPattern)
@@ -48,17 +51,18 @@ for file in os.listdir(file_dir):
 
             word_list = []
             for keyword in sortedKeywords[0:(totalKeywords)]:
-                word_list.append(keyword[0].lower())
+                word_list.append(keyword[0])
                 #print word_list
 
             new_word_list = [words for segments in word_list for words in segments.split()]
-
-            print 'Key words/phrases > ' + str(word_list)
-            print 'New > ' + ' '.join([i for i in line.split() if any(w in i.lower() for w in new_word_list)])
-            print ''
+            #print 'Key words/phrases > ' + str(word_list)
+            f.write((' '.join([i for i in line.split() if any(w in i.lower() for w in new_word_list)])) + '\n')
+            print ' '.join([i for i in line.split() if any(w in i.lower() for w in new_word_list)])
+            #print ''
 
         print ''
 
+f.close()
 
 # Other Resources
 # Topic Modelling - https://en.wikipedia.org/wiki/Topic_model

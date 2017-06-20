@@ -15,14 +15,14 @@ twenty_train = fetch_20newsgroups(subset = 'train', categories=categories, shuff
 
 count_vect = CountVectorizer()
 X_train_counts = count_vect.fit_transform(twenty_train.data)
-print count_vect.vocabulary_.get(u'algorithm')
+#print count_vect.vocabulary_.get(u'algorithm')
 
 tfidf_transformer  = TfidfTransformer()
 X_train_tfidf  = tfidf_transformer.fit_transform(X_train_counts)
-print X_train_tfidf.shape
+#print X_train_tfidf.shape
 
 clf = MultinomialNB().fit(X_train_tfidf, twenty_train.target)
-docs_new = ['God is love', 'OpenGL']
+docs_new = ['God', 'OpenGL', 'Programming', 'Doctors', 'Nurses']
 X_new_counts = count_vect.transform(docs_new)
 X_new_tfidf = tfidf_transformer.transform(X_new_counts)
 
