@@ -1,0 +1,1739 @@
+Keyword: central perk | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: spanish soap | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: figure | Score: 1.0
+Keyword: watching | Score: 1.0
+Keyword: tv | Score: 1.0
+Keyword: singing | Score: 1.0
+Keyword: subway | Score: 1.0
+Keyword: change | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: assembling furniture | Score: 4.0
+Keyword: apartment | Score: 1.0
+Keyword: guys | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: paul | Score: 1.0
+Keyword: eating | Score: 1.0
+Keyword: restaurant | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: pacing | Score: 1.0
+Keyword: phone | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: working | Score: 1.0
+Keyword: pacing | Score: 1.0
+Keyword: furniture | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: paul | Score: 1.0
+Keyword: eating | Score: 1.0
+Keyword: restaurant | Score: 1.0
+Keyword: watching joanne loves chaci | Score: 16.0
+Keyword: rachel | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: sitting | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: making coffee | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: frannie enters | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: iridium | Score: 1.0
+Keyword: working | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: rachel | Score: 1.0
+Keyword: credit cards | Score: 4.0
+Keyword: kitchen table | Score: 3.5
+Keyword: table | Score: 1.5
+Keyword: monica | Score: 1.0
+Keyword: sitting | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: spread | Score: 1.0
+Keyword: scissors | Score: 1.0
+Keyword: pair | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: prehistoric history | Score: 4.0
+Keyword: cave people | Score: 4.0
+Keyword: exhibit | Score: 1.0
+Keyword: museum | Score: 1.0
+Keyword: co-worker | Score: 1.0
+Keyword: mannequins | Score: 1.0
+Keyword: includes | Score: 1.0
+Keyword: marsha | Score: 1.0
+Keyword: setting | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: watching three | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: company | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: central park | Score: 4.0
+Keyword: carol | Score: 1.0
+Keyword: waiting | Score: 1.0
+Keyword: ob/gyn | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: carol | Score: 1.0
+Keyword: work | Score: 1.0
+Keyword: ob/gyn | Score: 1.0
+Keyword: barry enters | Score: 3.33333333333
+Keyword: barry | Score: 1.33333333333
+Keyword: rachel | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: makeup | Score: 1.0
+Keyword: lamp | Score: 1.0
+Keyword: mirror | Score: 1.0
+Keyword: arguing | Score: 1.0
+Keyword: baby | Score: 1.0
+Keyword: carol | Score: 1.0
+Keyword: ob/gyn | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: phoebe | Score: 1.0
+Keyword: helping joey rehearse | Score: 8.0
+Keyword: joey | Score: 2.0
+Keyword: part | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: iridium | Score: 1.0
+Keyword: work | Score: 1.0
+Keyword: paula | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: absent | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: smoking | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: balcony | Score: 1.0
+Keyword: joey enter dejectedly | Score: 9.0
+Keyword: softball gear | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: phoebe walks | Score: 4.0
+Keyword: homeless person | Score: 4.0
+Keyword: street | Score: 1.0
+Keyword: lizzie | Score: 1.0
+Keyword: breath spray | Score: 4.0
+Keyword: paying attention | Score: 4.0
+Keyword: air freshener | Score: 4.0
+Keyword: desk drawer | Score: 3.5
+Keyword: drawer | Score: 1.5
+Keyword: takes | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: sprays | Score: 1.0
+Keyword: cigarette | Score: 1.0
+Keyword: drag | Score: 1.0
+Keyword: gags | Score: 1.0
+Keyword: room | Score: 1.0
+Keyword: types | Score: 1.0
+Keyword: puff | Score: 1.0
+Keyword: squirt | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: opens | Score: 1.0
+Keyword: hot dog vendor | Score: 9.0
+Keyword: lizzie | Score: 1.0
+Keyword: street | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: telling | Score: 1.0
+Keyword: discovery | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: iridium | Score: 1.0
+Keyword: working | Score: 1.0
+Keyword: paula | Score: 1.0
+Keyword: cental perk | Score: 4.0
+Keyword: persecuting chandler | Score: 4.0
+Keyword: smoking | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: watching lambchop | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: everyond | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: joey | Score: 1.0
+Keyword: watching phoebe sleep | Score: 9.0
+Keyword: central perk | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: kicking | Score: 1.0
+Keyword: street | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: talking | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: joanne | Score: 1.0
+Keyword: kiki | Score: 1.0
+Keyword: lesile | Score: 1.0
+Keyword: rachel enters | Score: 3.5
+Keyword: rachel | Score: 1.5
+Keyword: monica | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: making | Score: 1.0
+Keyword: pajamas | Score: 1.0
+Keyword: blender | Score: 1.0
+Keyword: madison square garden | Score: 9.0
+Keyword: guys | Score: 1.0
+Keyword: find | Score: 1.0
+Keyword: seats | Score: 1.0
+Keyword: living room | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: hanging | Score: 1.0
+Keyword: madison square garden | Score: 9.0
+Keyword: game | Score: 1.0
+Keyword: guys | Score: 1.0
+Keyword: watching | Score: 1.0
+Keyword: leading ross | Score: 4.0
+Keyword: emergency room | Score: 4.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: slumber party continues | Score: 9.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: miming hockey pucks kitting foreheads | Score: 25.0
+Keyword: chandler realises | Score: 4.0
+Keyword: emergency room | Score: 4.0
+Keyword: tense | Score: 1.0
+Keyword: receptionist | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: girls | Score: 1.0
+Keyword: balcony | Score: 1.0
+Keyword: emergency room | Score: 4.0
+Keyword: carol | Score: 1.0
+Keyword: night | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: girls | Score: 1.0
+Keyword: balcony | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: six | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: boyfriend bob | Score: 4.0
+Keyword: convince monica | Score: 3.66666666667
+Keyword: hook monica | Score: 3.66666666667
+Keyword: angela back | Score: 3.5
+Keyword: monica | Score: 1.66666666667
+Keyword: angela | Score: 1.5
+Keyword: apartment | Score: 1.0
+Keyword: pose | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: plan | Score: 1.0
+Keyword: girlfriend | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: fancy restaurant | Score: 4.0
+Keyword: meeting angela | Score: 3.5
+Keyword: monica thinks | Score: 3.5
+Keyword: monica | Score: 1.5
+Keyword: angela | Score: 1.5
+Keyword: brother | Score: 1.0
+Keyword: bob | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: chandler | Score: 1.0
+Keyword: break | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: significant | Score: 1.0
+Keyword: ready | Score: 1.0
+Keyword: woman takes rachel | Score: 8.0
+Keyword: begins loading | Score: 4.0
+Keyword: rachel | Score: 2.0
+Keyword: launderama | Score: 1.0
+Keyword: things | Score: 1.0
+Keyword: machine | Score: 1.0
+Keyword: waiting | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: clothes | Score: 1.0
+Keyword: fancy restaurant | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: seated | Score: 1.0
+Keyword: angela | Score: 1.0
+Keyword: table | Score: 1.0
+Keyword: bob | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: fancy restaurant | Score: 4.0
+Keyword: talking | Score: 1.0
+Keyword: bob | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: ladies | Score: 1.0
+Keyword: restaurant | Score: 1.0
+Keyword: bathroom | Score: 1.0
+Keyword: angela | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: coaching chandler | Score: 4.0
+Keyword: break | Score: 1.0
+Keyword: janice | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: laundromat | Score: 1.0
+Keyword: fancy restaurant | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: shirt | Score: 1.0
+Keyword: angela | Score: 1.0
+Keyword: hand | Score: 1.0
+Keyword: uncomfortable | Score: 1.0
+Keyword: bob | Score: 1.0
+Keyword: dozen empty espresso cups | Score: 16.0
+Keyword: ease things | Score: 4.0
+Keyword: extremely wired | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: chandler | Score: 1.0
+Keyword: front | Score: 1.0
+Keyword: janice | Score: 1.0
+Keyword: audience wating | Score: 4.0
+Keyword: play | Score: 1.0
+Keyword: theater | Score: 1.0
+Keyword: start | Score: 1.0
+Keyword: gang | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: cast leaves | Score: 4.0
+Keyword: play | Score: 1.0
+Keyword: theater | Score: 1.0
+Keyword: groan | Score: 1.0
+Keyword: sit | Score: 1.0
+Keyword: heavily | Score: 1.0
+Keyword: applauding | Score: 1.0
+Keyword: ended | Score: 1.0
+Keyword: gang | Score: 1.0
+Keyword: chandler enters | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: joey enter | Score: 3.5
+Keyword: enter | Score: 1.5
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: door | Score: 1.0
+Keyword: morning | Score: 1.0
+Keyword: film set | Score: 4.0
+Keyword: scene | Score: 1.0
+Keyword: entering | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: aurora | Score: 1.0
+Keyword: room | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: bed | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: comfort chandler | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: absent | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: introducing phoebe | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: crowd | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: playing | Score: 1.0
+Keyword: guitar | Score: 1.0
+Keyword: atm vestibule | Score: 4.0
+Keyword: trapped inside | Score: 3.5
+Keyword: inside | Score: 1.5
+Keyword: lights | Score: 1.0
+Keyword: realizes | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: bank | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: phone | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: mother | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: jill goodacre | Score: 4.0
+Keyword: atm vestibule | Score: 4.0
+Keyword: cellular phone | Score: 4.0
+Keyword: italics | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: thoughts | Score: 1.0
+Keyword: candles lit | Score: 4.0
+Keyword: joey enters | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: menorah | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: atm vestibule | Score: 4.0
+Keyword: phone rings | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: coffee table talking | Score: 9.0
+Keyword: monica | Score: 1.0
+Keyword: sitting | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: five | Score: 1.0
+Keyword: passed | Score: 1.0
+Keyword: time | Score: 1.0
+Keyword: atm vestibule | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: singing | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: balcony | Score: 1.0
+Keyword: treating | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: menorah | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: wound | Score: 1.0
+Keyword: back | Score: 1.0
+Keyword: cat | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: holding | Score: 1.0
+Keyword: scratches | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: atm vestibule | Score: 4.0
+Keyword: building | Score: 1.0
+Keyword: hallway | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: cat | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: owner | Score: 1.0
+Keyword: find | Score: 1.0
+Keyword: owner | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: cat | Score: 1.0
+Keyword: playing monopoly | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: atm vestibule | Score: 4.0
+Keyword: watching disgustedly | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: paolo | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: window | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: atm vestibul | Score: 4.0
+Keyword: dehydrated japanese noodles | Score: 9.0
+Keyword: hey gorgeous | Score: 4.0
+Keyword: date saturday | Score: 4.0
+Keyword: fluorescent lights | Score: 4.0
+Keyword: i- just- | Score: 4.0
+Keyword: coffee break | Score: 4.0
+Keyword: thought- good | Score: 4.0
+Keyword: opening credits | Score: 4.0
+Keyword: s- chandler | Score: 3.16666666667
+Keyword: shelley enters | Score: 3.14285714286
+Keyword: chandler | Score: 1.16666666667
+Keyword: shelley | Score: 1.14285714286
+Keyword: cute | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: toilet | Score: 1.0
+Keyword: ah | Score: 1.0
+Keyword: flush | Score: 1.0
+Keyword: yeah | Score: 1.0
+Keyword: perfect | Score: 1.0
+Keyword: funny | Score: 1.0
+Keyword: god | Score: 1.0
+Keyword: question | Score: 1.0
+Keyword: backs | Score: 1.0
+Keyword: dating | Score: 1.0
+Keyword: co-dependent | Score: 1.0
+Keyword: gonna | Score: 1.0
+Keyword: met | Score: 1.0
+Keyword: room | Score: 1.0
+Keyword: self-destructive | Score: 1.0
+Keyword: goodbye | Score: 1.0
+Keyword: problem | Score: 1.0
+Keyword: entire birthday party talking | Score: 14.0
+Keyword: joey congratulates ross | Score: 6.0
+Keyword: caro mio | Score: 4.0
+Keyword: bon giorno | Score: 4.0
+Keyword: susan sallidor | Score: 4.0
+Keyword: phone rings | Score: 4.0
+Keyword: takes phone | Score: 4.0
+Keyword: bernie spellman | Score: 4.0
+Keyword: abruptly stops | Score: 4.0
+Keyword: kinda wanted | Score: 4.0
+Keyword: hey dad | Score: 3.5
+Keyword: paolo calling | Score: 3.33333333333
+Keyword: spent phoebe | Score: 3.25
+Keyword: sees chandler | Score: 3.1
+Keyword: talking | Score: 2.0
+Keyword: joey | Score: 1.66666666667
+Keyword: dad | Score: 1.5
+Keyword: calling | Score: 1.33333333333
+Keyword: ross | Score: 1.33333333333
+Keyword: phoebe | Score: 1.25
+Keyword: chandler | Score: 1.1
+Keyword: enjoy | Score: 1.0
+Keyword: fascinating | Score: 1.0
+Keyword: absolutely | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: yeah | Score: 1.0
+Keyword: rest | Score: 1.0
+Keyword: college | Score: 1.0
+Keyword: wasn | Score: 1.0
+Keyword: noodles | Score: 1.0
+Keyword: quality | Score: 1.0
+Keyword: thought | Score: 1.0
+Keyword: cup | Score: 1.0
+Keyword: nana | Score: 1.0
+Keyword: god | Score: 1.0
+Keyword: make | Score: 1.0
+Keyword: just- | Score: 1.0
+Keyword: kidding | Score: 1.0
+Keyword: gotta | Score: 1.0
+Keyword: smart | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: you- | Score: 1.0
+Keyword: good | Score: 1.0
+Keyword: funny | Score: 1.0
+Keyword: beeped | Score: 1.0
+Keyword: huh | Score: 1.0
+Keyword: breasts | Score: 1.0
+Keyword: gonna | Score: 1.0
+Keyword: back | Score: 1.0
+Keyword: met | Score: 1.0
+Keyword: ridiculous | Score: 1.0
+Keyword: i- | Score: 1.0
+Keyword: quick | Score: 1.0
+Keyword: guys | Score: 1.0
+Keyword: vague | Score: 1.0
+Keyword: figured | Score: 1.0
+Keyword: showing | Score: 1.0
+Keyword: couldn | Score: 1.0
+Keyword: possibly | Score: 1.0
+Keyword: nono | Score: 1.0
+Keyword: dunno | Score: 1.0
+Keyword: told | Score: 1.0
+Keyword: worried | Score: 1.0
+Keyword: um | Score: 1.0
+Keyword: rome | Score: 1.0
+Keyword: listens | Score: 1.0
+Keyword: uh | Score: 1.0
+Keyword: hello | Score: 1.0
+Keyword: making coffee | Score: 4.0
+Keyword: aunt lillian | Score: 4.0
+Keyword: monica strides | Score: 3.28571428571
+Keyword: monica enter | Score: 3.28571428571
+Keyword: monica | Score: 1.28571428571
+Keyword: kisses | Score: 1.0
+Keyword: hair | Score: 1.0
+Keyword: geller | Score: 1.0
+Keyword: talks | Score: 1.0
+Keyword: fine | Score: 1.0
+Keyword: doctor | Score: 1.0
+Keyword: god | Score: 1.0
+Keyword: hospital | Score: 1.0
+Keyword: relax | Score: 1.0
+Keyword: how- | Score: 1.0
+Keyword: unbelievable | Score: 1.0
+Keyword: hug | Score: 1.0
+Keyword: mother | Score: 1.0
+Keyword: gonna | Score: 1.0
+Keyword: hours | Score: 1.0
+Keyword: mom | Score: 1.0
+Keyword: glad | Score: 1.0
+Keyword: boyfriends | Score: 1.0
+Keyword: career | Score: 1.0
+Keyword: cover | Score: 1.0
+Keyword: mrs | Score: 1.0
+Keyword: matter | Score: 1.0
+Keyword: uh | Score: 1.0
+Keyword: mr | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: rachel | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: aunt lillian | Score: 4.0
+Keyword: nana | Score: 1.0
+Keyword: house | Score: 1.0
+Keyword: clothes | Score: 1.0
+Keyword: mrs | Score: 1.0
+Keyword: geller | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: father | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: drinking coffee | Score: 4.0
+Keyword: chandler enters | Score: 3.5
+Keyword: chandler | Score: 1.5
+Keyword: shelley | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: closet | Score: 1.0
+Keyword: nana | Score: 1.0
+Keyword: inside | Score: 1.0
+Keyword: holding | Score: 1.0
+Keyword: bedroom | Score: 1.0
+Keyword: dress | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: leave | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: funeral | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: preparing | Score: 1.0
+Keyword: cemetary | Score: 1.0
+Keyword: funeral | Score: 1.0
+Keyword: phoebe squatting | Score: 4.0
+Keyword: injured | Score: 1.0
+Keyword: checking | Score: 1.0
+Keyword: house | Score: 1.0
+Keyword: gellers | Score: 1.0
+Keyword: back | Score: 1.0
+Keyword: wake | Score: 1.0
+Keyword: lying | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: photos | Score: 1.0
+Keyword: gang | Score: 1.0
+Keyword: lowell enters | Score: 4.0
+Keyword: coffee break | Score: 4.0
+Keyword: chandler | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: rachel | Score: 1.0
+Keyword: confronting | Score: 1.0
+Keyword: terry | Score: 1.0
+Keyword: boss | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: customer | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: approaching | Score: 1.0
+Keyword: ross enters | Score: 4.0
+Keyword: carol | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: susan | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: gorgeous woman waiting | Score: 9.0
+Keyword: joey spots | Score: 4.0
+Keyword: subway | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: joey enters | Score: 4.0
+Keyword: gang | Score: 1.0
+Keyword: snickers | Score: 1.0
+Keyword: joey enters | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: upset | Score: 1.0
+Keyword: cooking thanksgiving dinner | Score: 9.0
+Keyword: standing | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: festivities | Score: 1.0
+Keyword: doorway | Score: 1.0
+Keyword: participate | Score: 1.0
+Keyword: wanting | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: susan | Score: 1.0
+Keyword: belly | Score: 1.0
+Keyword: talk | Score: 1.0
+Keyword: carol | Score: 1.0
+Keyword: preparing | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: coming back | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: group | Score: 1.0
+Keyword: roof | Score: 1.0
+Keyword: stomach | Score: 1.0
+Keyword: susan | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: carol | Score: 1.0
+Keyword: reading | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: tray full | Score: 4.0
+Keyword: hallway | Score: 1.0
+Keyword: keys | Score: 1.0
+Keyword: lock | Score: 1.0
+Keyword: one | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: entering | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: ready | Score: 1.0
+Keyword: sing | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: decorating | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: christmas | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: explaining | Score: 1.0
+Keyword: max | Score: 1.0
+Keyword: whiteboard | Score: 1.0
+Keyword: lab | Score: 1.0
+Keyword: david | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: aid | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: phoebe knocks | Score: 4.0
+Keyword: door | Score: 1.0
+Keyword: working | Score: 1.0
+Keyword: max | Score: 1.0
+Keyword: lab | Score: 1.0
+Keyword: david | Score: 1.0
+Keyword: started | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: party | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: walking | Score: 1.0
+Keyword: street | Score: 1.0
+Keyword: newsstand | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: visiting | Score: 1.0
+Keyword: hospital | Score: 1.0
+Keyword: mon | Score: 1.0
+Keyword: coma | Score: 1.0
+Keyword: pheebs | Score: 1.0
+Keyword: guy | Score: 1.0
+Keyword: coma guy | Score: 4.0
+Keyword: telling | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: guy playing | Score: 4.0
+Keyword: monica reading | Score: 3.5
+Keyword: monica | Score: 1.5
+Keyword: montage | Score: 1.0
+Keyword: starts | Score: 1.0
+Keyword: hospital | Score: 1.0
+Keyword: visit | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: background | Score: 1.0
+Keyword: newspaper | Score: 1.0
+Keyword: mexican restaurant | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: mom | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: dressing gownit | Score: 4.0
+Keyword: door | Score: 1.0
+Keyword: morning | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: stroking coma guy | Score: 9.0
+Keyword: monica enters | Score: 4.0
+Keyword: phoebe | Score: 1.0
+Keyword: hospital | Score: 1.0
+Keyword: hair | Score: 1.0
+Keyword: balloons | Score: 1.0
+Keyword: bunch | Score: 1.0
+Keyword: snack | Score: 1.0
+Keyword: bar | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: making | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: monica walks | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: writing | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: monica bursts | Score: 4.0
+Keyword: coma guy | Score: 4.0
+Keyword: room | Score: 1.0
+Keyword: bed | Score: 1.0
+Keyword: sign | Score: 1.0
+Keyword: closely | Score: 1.0
+Keyword: empty | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: ross starts humming theme | Score: 13.5
+Keyword: starts humming theme | Score: 10.5
+Keyword: ross working | Score: 5.0
+Keyword: crossword puzzle | Score: 4.0
+Keyword: chandler joins | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: odd couple | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: dream | Score: 1.0
+Keyword: gang | Score: 1.0
+Keyword: jeannie | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: kitchen | Score: 1.0
+Keyword: phone | Score: 1.0
+Keyword: joey leaving girls | Score: 9.0
+Keyword: carrying lasagna | Score: 4.0
+Keyword: hallway | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: carol answers | Score: 3.5
+Keyword: carol | Score: 1.5
+Keyword: knock | Score: 1.0
+Keyword: door | Score: 1.0
+Keyword: susan | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: knees | Score: 1.0
+Keyword: support | Score: 1.0
+Keyword: lasagna | Score: 1.0
+Keyword: table | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: massage parlor | Score: 4.0
+Keyword: telling | Score: 1.0
+Keyword: schedule | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: assistant | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: phoebe | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: earlier | Score: 1.0
+Keyword: continued | Score: 1.0
+Keyword: table store | Score: 3.5
+Keyword: table | Score: 1.5
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: phoebe enters | Score: 4.0
+Keyword: packing clothes | Score: 4.0
+Keyword: rachel folding | Score: 3.5
+Keyword: rachel | Score: 1.5
+Keyword: monica | Score: 1.0
+Keyword: suitcases | Score: 1.0
+Keyword: monica admiring | Score: 4.0
+Keyword: ross | Score: 1.0
+Keyword: table | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: shock | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: recovering | Score: 1.0
+Keyword: foosball game continues | Score: 9.0
+Keyword: chandler | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: telling | Score: 1.0
+Keyword: hall | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: throwing paolo | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: balcony | Score: 1.0
+Keyword: side | Score: 1.0
+Keyword: clothes | Score: 1.0
+Keyword: towel wrapped round | Score: 7.66666666667
+Keyword: starts raiding | Score: 4.0
+Keyword: chandler walks | Score: 3.5
+Keyword: rachel startle | Score: 3.33333333333
+Keyword: towel | Score: 1.66666666667
+Keyword: chandler | Score: 1.5
+Keyword: rachel | Score: 1.33333333333
+Keyword: monica | Score: 1.0
+Keyword: drying | Score: 1.0
+Keyword: waist | Score: 1.0
+Keyword: snatches | Score: 1.0
+Keyword: fridge | Score: 1.0
+Keyword: couch | Score: 1.0
+Keyword: rug | Score: 1.0
+Keyword: shower | Score: 1.0
+Keyword: drops | Score: 1.0
+Keyword: boyfriend roger | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: tribbiani | Score: 1.0
+Keyword: mr | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: phone | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: hid dad | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: affair | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: lamenting | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: leaving monica | Score: 4.0
+Keyword: rachel | Score: 1.0
+Keyword: hallway | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: dad | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: ronni | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: living room | Score: 4.0
+Keyword: sharing | Score: 1.0
+Keyword: restless | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: night | Score: 1.0
+Keyword: sofabed | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: door | Score: 1.0
+Keyword: knocks | Score: 1.0
+Keyword: morning | Score: 1.0
+Keyword: phoebe enters | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: sofabed back | Score: 4.0
+Keyword: apartment | Score: 1.0
+Keyword: door | Score: 1.0
+Keyword: sofa | Score: 1.0
+Keyword: turn | Score: 1.0
+Keyword: rears | Score: 1.0
+Keyword: knocks | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: roger | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: pun intended | Score: 4.0
+Keyword: beautiful woman | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: counter | Score: 1.0
+Keyword: eyeing | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: egging | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: talk | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: beautiful woman | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: dates | Score: 1.0
+Keyword: show | Score: 1.0
+Keyword: restaurant | Score: 1.0
+Keyword: waiting | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: bathroom | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: restaurant | Score: 1.0
+Keyword: bad luck | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: men | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: girls | Score: 1.0
+Keyword: discussing | Score: 1.0
+Keyword: restaurant | Score: 1.0
+Keyword: chairs | Score: 1.0
+Keyword: seated | Score: 1.0
+Keyword: one | Score: 1.0
+Keyword: lorraine | Score: 1.0
+Keyword: close | Score: 1.0
+Keyword: backed | Score: 1.0
+Keyword: table | Score: 1.0
+Keyword: janice | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: chandler wakes | Score: 3.5
+Keyword: chandler | Score: 1.5
+Keyword: rolls | Score: 1.0
+Keyword: shocked | Score: 1.0
+Keyword: chest | Score: 1.0
+Keyword: bedroom | Score: 1.0
+Keyword: janice | Score: 1.0
+Keyword: hand | Score: 1.0
+Keyword: finds | Score: 1.0
+Keyword: hallway | Score: 1.0
+Keyword: janice | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: chinese restaurant | Score: 4.0
+Keyword: date | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: boyfriend bonfire | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: girls | Score: 1.0
+Keyword: holding | Score: 1.0
+Keyword: dump janice | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: joey | Score: 1.0
+Keyword: preparing | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: chinese restaurant | Score: 4.0
+Keyword: control | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: handle | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: firemen | Score: 1.0
+Keyword: bonfire | Score: 1.0
+Keyword: serving joey | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: drinks | Score: 1.0
+Keyword: co-workers walks | Score: 4.0
+Keyword: typing data | Score: 3.5
+Keyword: one hand | Score: 3.5
+Keyword: one | Score: 1.5
+Keyword: typing | Score: 1.5
+Keyword: coffee | Score: 1.0
+Keyword: taking | Score: 1.0
+Keyword: drink | Score: 1.0
+Keyword: job | Score: 1.0
+Keyword: computer | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: phoebe runs | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: excitedly | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: chandler walks | Score: 4.0
+Keyword: wearing | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: suit | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: celia | Score: 1.0
+Keyword: marcel | Score: 1.0
+Keyword: hair | Score: 1.0
+Keyword: hanging | Score: 1.0
+Keyword: screaming | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: making food | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: cruddy urge overkill version | Score: 16.0
+Keyword: kissing passionately | Score: 4.0
+Keyword: apartment | Score: 1.0
+Keyword: ll | Score: 1.0
+Keyword: playing | Score: 1.0
+Keyword: woman | Score: 1.0
+Keyword: celia | Score: 1.0
+Keyword: girl | Score: 1.0
+Keyword: original | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: night | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: discussing | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: happened | Score: 1.0
+Keyword: window office | Score: 4.0
+Keyword: showing phoebe | Score: 4.0
+Keyword: chandler | Score: 1.0
+Keyword: rachel walks | Score: 3.5
+Keyword: rachel | Score: 1.5
+Keyword: monica | Score: 1.0
+Keyword: overhears | Score: 1.0
+Keyword: phone | Score: 1.0
+Keyword: conversation | Score: 1.0
+Keyword: crystal duck winner jon lovitz | Score: 25.0
+Keyword: phoebe walks | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: cooking | Score: 1.0
+Keyword: waitressing | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: steve | Score: 1.0
+Keyword: rifts restaurant | Score: 4.0
+Keyword: chandler | Score: 1.0
+Keyword: mad | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: wintry february day | Score: 9.0
+Keyword: inside central perk | Score: 9.0
+Keyword: paying court | Score: 4.0
+Keyword: york city | Score: 4.0
+Keyword: three girls | Score: 4.0
+Keyword: clearing | Score: 1.0
+Keyword: streets | Score: 1.0
+Keyword: snowplows | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: one trio sit | Score: 9.0
+Keyword: woman sitting | Score: 4.0
+Keyword: lamaze class | Score: 4.0
+Keyword: introducing | Score: 1.0
+Keyword: floor | Score: 1.0
+Keyword: susan | Score: 1.0
+Keyword: whos | Score: 1.0
+Keyword: couples | Score: 1.0
+Keyword: carol | Score: 1.0
+Keyword: teacher | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: sitcom family matters | Score: 9.0
+Keyword: chinese takeout | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: dividing | Score: 1.0
+Keyword: tv | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: girls | Score: 1.0
+Keyword: playing | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: rostins pretend baby | Score: 9.0
+Keyword: performs emergency surgery | Score: 9.0
+Keyword: head flat | Score: 4.0
+Keyword: ross rushes | Score: 4.0
+Keyword: finished learning | Score: 4.0
+Keyword: lamaze class | Score: 4.0
+Keyword: doll back | Score: 3.5
+Keyword: doll | Score: 1.5
+Keyword: squashing | Score: 1.0
+Keyword: couple | Score: 1.0
+Keyword: susan | Score: 1.0
+Keyword: protest | Score: 1.0
+Keyword: diaper | Score: 1.0
+Keyword: stepping | Score: 1.0
+Keyword: hands | Score: 1.0
+Keyword: bleats | Score: 1.0
+Keyword: change | Score: 1.0
+Keyword: douglas knocks | Score: 4.0
+Keyword: boss mr | Score: 4.0
+Keyword: toy | Score: 1.0
+Keyword: door | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: playing | Score: 1.0
+Keyword: opens | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: nina | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: day | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: serving coffee | Score: 4.0
+Keyword: phoebe | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: counter | Score: 1.0
+Keyword: nearby table sit monica knitting | Score: 23.0
+Keyword: rachel winding | Score: 4.0
+Keyword: spanish version | Score: 4.0
+Keyword: chandler supplying | Score: 4.0
+Keyword: monica | Score: 3.0
+Keyword: ball | Score: 1.0
+Keyword: watching | Score: 1.0
+Keyword: skein | Score: 1.0
+Keyword: waltons | Score: 1.0
+Keyword: rachels | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: hands | Score: 1.0
+Keyword: wool | Score: 1.0
+Keyword: spread | Score: 1.0
+Keyword: chandlers boss opens | Score: 9.0
+Keyword: hurriedly separate | Score: 4.0
+Keyword: passionate embrace | Score: 4.0
+Keyword: chandler & nina | Score: 3.5
+Keyword: chandler | Score: 1.5
+Keyword: stare | Score: 1.0
+Keyword: locked | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: door | Score: 1.0
+Keyword: window | Score: 1.0
+Keyword: knocks | Score: 1.0
+Keyword: pretend baby | Score: 4.0
+Keyword: lamaze class | Score: 3.5
+Keyword: susans lap | Score: 3.33333333333
+Keyword: class | Score: 1.5
+Keyword: lap | Score: 1.33333333333
+Keyword: end | Score: 1.0
+Keyword: floor | Score: 1.0
+Keyword: showing | Score: 1.0
+Keyword: video | Score: 1.0
+Keyword: carol | Score: 1.0
+Keyword: cradled | Score: 1.0
+Keyword: teacher | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: nina knocks | Score: 4.0
+Keyword: door | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: working | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: opens | Score: 1.0
+Keyword: monica carefully reads | Score: 8.0
+Keyword: television set | Score: 4.0
+Keyword: instruction manual | Score: 4.0
+Keyword: monica | Score: 2.0
+Keyword: sharing | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: bowl | Score: 1.0
+Keyword: rachels | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: popcorn | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: emergency room | Score: 4.0
+Keyword: monica enter | Score: 3.5
+Keyword: monica | Score: 1.5
+Keyword: support | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: leaning | Score: 1.0
+Keyword: limping | Score: 1.0
+Keyword: inappropriate joke | Score: 4.0
+Keyword: lamaze class | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: back | Score: 1.0
+Keyword: haunt | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: split | Score: 1.0
+Keyword: newspaper | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: funnies | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: noah wyle | Score: 4.0
+Keyword: george clooney | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: played | Score: 1.0
+Keyword: enter | Score: 1.0
+Keyword: hospital | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: waiting | Score: 1.0
+Keyword: doctors | Score: 1.0
+Keyword: arrive | Score: 1.0
+Keyword: surprise birthday party | Score: 9.0
+Keyword: telling chandler | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: incident | Score: 1.0
+Keyword: waiting | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: arrive | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: examining | Score: 1.0
+Keyword: restaurant | Score: 1.0
+Keyword: forkful | Score: 1.0
+Keyword: father | Score: 1.0
+Keyword: lunch | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: sap mode | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: tv | Score: 1.0
+Keyword: turns | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: intercom | Score: 1.0
+Keyword: free hand shaking | Score: 9.0
+Keyword: monica sit round | Score: 8.0
+Keyword: playing scrabble | Score: 4.0
+Keyword: dressing gown | Score: 4.0
+Keyword: coffee table | Score: 4.0
+Keyword: monica | Score: 2.0
+Keyword: agitation | Score: 1.0
+Keyword: phone | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: morning | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: pleading | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: ursula returns | Score: 4.0
+Keyword: set one | Score: 4.0
+Keyword: two plates | Score: 4.0
+Keyword: riff | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: entering | Score: 1.0
+Keyword: time | Score: 1.0
+Keyword: table | Score: 1.0
+Keyword: chicken | Score: 1.0
+Keyword: officious admissions nurse | Score: 9.0
+Keyword: monica enter | Score: 4.0
+Keyword: emergency room | Score: 4.0
+Keyword: monica struggles | Score: 4.0
+Keyword: winning smile | Score: 3.5
+Keyword: rachel adopts | Score: 3.5
+Keyword: rachel | Score: 1.5
+Keyword: smile | Score: 1.5
+Keyword: duty | Score: 1.0
+Keyword: worried | Score: 1.0
+Keyword: desk | Score: 1.0
+Keyword: approach | Score: 1.0
+Keyword: busily drawing | Score: 4.0
+Keyword: marcel chitters | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: attempt | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: childhood | Score: 1.0
+Keyword: game | Score: 1.0
+Keyword: scrabble | Score: 1.0
+Keyword: neglecting | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: monica sits | Score: 4.0
+Keyword: honest form | Score: 4.0
+Keyword: fluffy towel | Score: 4.0
+Keyword: admissions desk | Score: 4.0
+Keyword: chandler hurtle | Score: 4.0
+Keyword: emergency room | Score: 4.0
+Keyword: rachel | Score: 1.0
+Keyword: arms | Score: 1.0
+Keyword: marcel | Score: 1.0
+Keyword: dash | Score: 1.0
+Keyword: filling | Score: 1.0
+Keyword: wrapped | Score: 1.0
+Keyword: frantic | Score: 1.0
+Keyword: cradled | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: main sofa | Score: 4.0
+Keyword: phoebe enters | Score: 4.0
+Keyword: twin sister | Score: 4.0
+Keyword: identifying garment | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: approaching joey | Score: 3.5
+Keyword: joey | Score: 1.5
+Keyword: hair | Score: 1.0
+Keyword: sits | Score: 1.0
+Keyword: style | Score: 1.0
+Keyword: flower | Score: 1.0
+Keyword: hopeful | Score: 1.0
+Keyword: hangs | Score: 1.0
+Keyword: playing | Score: 1.0
+Keyword: match | Score: 1.0
+Keyword: revealing | Score: 1.0
+Keyword: nervously | Score: 1.0
+Keyword: smooths | Score: 1.0
+Keyword: make- | Score: 1.0
+Keyword: petals | Score: 1.0
+Keyword: cardigan | Score: 1.0
+Keyword: coat | Score: 1.0
+Keyword: changed | Score: 1.0
+Keyword: alternately | Score: 1.0
+Keyword: loves | Score: 1.0
+Keyword: annoyed | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: phoebe enter | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: working | Score: 1.0
+Keyword: sitting | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: table | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: play poker | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: girls | Score: 1.0
+Keyword: teaching | Score: 1.0
+Keyword: guys | Score: 1.0
+Keyword: ross enters | Score: 3.5
+Keyword: ross | Score: 1.5
+Keyword: apartment | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: pizza | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: lion sleep tonight plays | Score: 16.0
+Keyword: apartment | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: seated | Score: 1.0
+Keyword: background | Score: 1.0
+Keyword: table | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: apartment | Score: 1.0
+Keyword: continued | Score: 1.0
+Keyword: earlier | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: poker game | Score: 4.0
+Keyword: ready | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: customer | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: monica enters | Score: 4.0
+Keyword: mail | Score: 1.0
+Keyword: eating chinese | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: joe- | Score: 1.0
+Keyword: guys | Score: 1.0
+Keyword: pizza | Score: 1.0
+Keyword: taking care | Score: 4.0
+Keyword: soap opera | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: watching | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: marcel | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: continued | Score: 1.0
+Keyword: earlier | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: rachel | Score: 1.0
+Keyword: post-coital barry | Score: 3.5
+Keyword: barry | Score: 1.5
+Keyword: office | Score: 1.0
+Keyword: recovering | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: chair | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: barry | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: dressed | Score: 1.0
+Keyword: chandler enters clutching | Score: 9.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: phone | Score: 1.0
+Keyword: monica enters | Score: 3.5
+Keyword: monica | Score: 1.5
+Keyword: creeps | Score: 1.0
+Keyword: sitting | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: morning | Score: 1.0
+Keyword: phone | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: staring | Score: 1.0
+Keyword: mindy enters | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: serving coffee | Score: 4.0
+Keyword: rachel | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: phone | Score: 1.0
+Keyword: cooking | Score: 1.0
+Keyword: crossword | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: staring | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: rachel enters | Score: 4.0
+Keyword: barry | Score: 1.0
+Keyword: tools | Score: 1.0
+Keyword: preparing | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: papers | Score: 1.0
+Keyword: rachel emerges | Score: 3.5
+Keyword: night monica | Score: 3.5
+Keyword: monica | Score: 1.5
+Keyword: rachel | Score: 1.5
+Keyword: bill | Score: 1.0
+Keyword: room | Score: 1.0
+Keyword: examining | Score: 1.0
+Keyword: late | Score: 1.0
+Keyword: discussing stage names | Score: 9.0
+Keyword: central perk | Score: 4.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: rachel enter | Score: 3.5
+Keyword: rachel | Score: 1.5
+Keyword: monica | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: tap class | Score: 4.0
+Keyword: standing | Score: 1.0
+Keyword: door | Score: 1.0
+Keyword: girls | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: entering | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: scene continued | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: three monkeys | Score: 4.0
+Keyword: sitting | Score: 1.0
+Keyword: earlier | Score: 1.0
+Keyword: guys | Score: 1.0
+Keyword: fake monica | Score: 3.33333333333
+Keyword: monica | Score: 1.33333333333
+Keyword: rachel | Score: 1.0
+Keyword: tiem lapse | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: baldhara | Score: 1.0
+Keyword: zookeeper | Score: 1.0
+Keyword: talking | Score: 1.0
+Keyword: dr | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: monica bursts | Score: 3.5
+Keyword: monica | Score: 1.5
+Keyword: dusting | Score: 1.0
+Keyword: puts | Score: 1.0
+Keyword: drunk | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: lifts | Score: 1.0
+Keyword: magazines | Score: 1.0
+Keyword: table | Score: 1.0
+Keyword: wipes | Score: 1.0
+Keyword: york city department | Score: 9.0
+Keyword: visiting fake monica | Score: 8.0
+Keyword: monica | Score: 2.0
+Keyword: correction | Score: 1.0
+Keyword: tap class | Score: 4.0
+Keyword: standing | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: door | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: airport | Score: 1.0
+Keyword: marcel | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: sitting | Score: 1.0
+Keyword: earlier | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: table | Score: 1.0
+Keyword: continued | Score: 1.0
+Keyword: phone starts ringing | Score: 9.0
+Keyword: chandler | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: finishing cleaning | Score: 4.0
+Keyword: windows | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: ross | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: young ethan | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: couch | Score: 1.0
+Keyword: sitting | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: earlier | Score: 1.0
+Keyword: continued | Score: 1.0
+Keyword: bedroom | Score: 1.0
+Keyword: exept monica | Score: 3.5
+Keyword: monica | Score: 1.5
+Keyword: rachel | Score: 1.0
+Keyword: office | Score: 1.0
+Keyword: taking | Score: 1.0
+Keyword: work | Score: 1.0
+Keyword: break | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: central perk | Score: 4.0
+Keyword: exept phoebe | Score: 3.5
+Keyword: exept | Score: 1.5
+Keyword: chandler | Score: 1.0
+Keyword: react | Score: 1.0
+Keyword: beeper | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: phoebe enters | Score: 4.0
+Keyword: chandler works | Score: 3.33333333333
+Keyword: chandler | Score: 1.33333333333
+Keyword: overhears | Score: 1.0
+Keyword: floor | Score: 1.0
+Keyword: employees | Score: 1.0
+Keyword: hall | Score: 1.0
+Keyword: conversation | Score: 1.0
+Keyword: one | Score: 1.0
+Keyword: waiting room | Score: 3.5
+Keyword: waiting | Score: 1.5
+Keyword: monica | Score: 1.0
+Keyword: arrive | Score: 1.0
+Keyword: susan | Score: 1.0
+Keyword: carol | Score: 1.0
+Keyword: hospital | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: hospital room | Score: 4.0
+Keyword: susan | Score: 1.0
+Keyword: bed | Score: 1.0
+Keyword: carol | Score: 1.0
+Keyword: side | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: waiting room | Score: 4.0
+Keyword: falling asleep | Score: 4.0
+Keyword: shoulder | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: waiting room | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: song | Score: 1.0
+Keyword: playing | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: hospital room | Score: 4.0
+Keyword: phone | Score: 1.0
+Keyword: mother | Score: 1.0
+Keyword: lydia | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: hospital room | Score: 4.0
+Keyword: coaching carol | Score: 3.5
+Keyword: carol | Score: 1.5
+Keyword: susan | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: hospital room | Score: 3.5
+Keyword: helping lydia | Score: 3.5
+Keyword: room | Score: 1.5
+Keyword: lydia | Score: 1.5
+Keyword: labor | Score: 1.0
+Keyword: nurse | Score: 1.0
+Keyword: present | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: arguing | Score: 1.0
+Keyword: susan | Score: 1.0
+Keyword: hall | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: broom closet | Score: 4.0
+Keyword: susan | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: franzblau | Score: 1.0
+Keyword: carol | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: dr | Score: 1.0
+Keyword: room | Score: 1.0
+Keyword: helping | Score: 1.0
+Keyword: deliver | Score: 1.0
+Keyword: lydia | Score: 1.0
+Keyword: room | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: broom closet | Score: 4.0
+Keyword: door | Score: 1.0
+Keyword: holding | Score: 1.0
+Keyword: vacuum | Score: 1.0
+Keyword: picked | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: waiting room | Score: 4.0
+Keyword: standing | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: phone | Score: 1.0
+Keyword: mother | Score: 1.0
+Keyword: chandler | Score: 1.0
+Keyword: waiting room | Score: 4.0
+Keyword: franzblau | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: dr | Score: 1.0
+Keyword: coffee | Score: 1.0
+Keyword: walking | Score: 1.0
+Keyword: enters | Score: 1.0
+Keyword: sees | Score: 1.0
+Keyword: room | Score: 1.0
+Keyword: door | Score: 1.0
+Keyword: father | Score: 1.0
+Keyword: lydia | Score: 1.0
+Keyword: baby | Score: 1.0
+Keyword: arrived | Score: 1.0
+Keyword: listens | Score: 1.0
+Keyword: balloons | Score: 1.0
+Keyword: hall | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: broom closet | Score: 4.0
+Keyword: credit card | Score: 4.0
+Keyword: door | Score: 1.0
+Keyword: success | Score: 1.0
+Keyword: open | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: broom closet | Score: 4.0
+Keyword: give birth | Score: 4.0
+Keyword: room | Score: 1.0
+Keyword: susan | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: ready | Score: 1.0
+Keyword: carol | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: broom closet | Score: 3.5
+Keyword: air vent | Score: 3.5
+Keyword: vent | Score: 1.5
+Keyword: broom | Score: 1.5
+Keyword: wearing | Score: 1.0
+Keyword: ceiling | Score: 1.0
+Keyword: janitor | Score: 1.0
+Keyword: uniform | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: ready | Score: 1.0
+Keyword: open | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: susan rush | Score: 4.0
+Keyword: carol | Score: 1.0
+Keyword: room | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: delivery room | Score: 4.0
+Keyword: carol | Score: 1.0
+Keyword: infant | Score: 1.0
+Keyword: holding | Score: 1.0
+Keyword: hospital | Score: 1.0
+Keyword: camera | Score: 1.0
+Keyword: ben | Score: 1.0
+Keyword: eyes | Score: 1.0
+Keyword: baby boy | Score: 4.0
+Keyword: showing pictures | Score: 4.0
+Keyword: central perk | Score: 4.0
+Keyword: ben | Score: 1.0
+Keyword: gang | Score: 1.0
+Keyword: group | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: birthday | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: barbecue | Score: 1.0
+Keyword: preparing | Score: 1.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: continued | Score: 1.0
+Keyword: earlier | Score: 1.0
+Keyword: flight attendant | Score: 4.0
+Keyword: speak chinese | Score: 3.5
+Keyword: chinese | Score: 1.5
+Keyword: jetway | Score: 1.0
+Keyword: accordance | Score: 1.0
+Keyword: headphones | Score: 1.0
+Keyword: airport | Score: 1.0
+Keyword: occasionally | Score: 1.0
+Keyword: tape | Score: 1.0
+Keyword: listening | Score: 1.0
+Keyword: makes | Score: 1.0
+Keyword: outburst | Score: 1.0
+Keyword: ross | Score: 1.0
+Keyword: melanie | Score: 1.0
+Keyword: bedroom | Score: 1.0
+Keyword: bed | Score: 1.0
+Keyword: joey | Score: 1.0
+Keyword: wrapping paper | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: one | Score: 1.0
+Keyword: gifts | Score: 1.0
+Keyword: phoebe | Score: 1.0
+Keyword: holding | Score: 1.0
+Keyword: joey quietly opens | Score: 8.0
+Keyword: eating breakfast | Score: 4.0
+Keyword: bedroom door | Score: 4.0
+Keyword: joey | Score: 2.0
+Keyword: chandler | Score: 1.0
+Keyword: one week | Score: 4.0
+Keyword: monica | Score: 1.0
+Keyword: rachel | Score: 1.0
+Keyword: seated | Score: 1.0
+Keyword: bedroom | Score: 1.0
