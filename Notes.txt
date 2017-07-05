@@ -28,13 +28,8 @@ http://textminingonline.com/getting-started-with-keyword-extraction
 
 https://textblob.readthedocs.io/en/dev/
 
-NLTK
-Natural Language Toolkit
+NLTK - Natural Language Toolkit
 http://www.nltk.org/
-
-
-WordNet
-https://stackoverflow.com/questions/25534214/nltk-wordnet-lemmatizer-shouldnt-it-lemmatize-all-inflections-of-a-word
 
 
  Run Python File using Anaconda :

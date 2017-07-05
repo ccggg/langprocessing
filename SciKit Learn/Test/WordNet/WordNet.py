@@ -11,13 +11,16 @@ from nltk.corpus import wordnet as wn
 file_dir = 'Z:/My Documents/Python/SciKit Learn/Test/keywords/keywords.txt'
 with open(file_dir, 'r', encoding='utf-8-sig') as open_file:
         lines = open_file.readlines()
-        line = lines[36]
+        line = lines[81]
         print line
+
+        people = []
 
         for i in range(0, len(line.split())):
             word = line.split()[i]
             word = word.replace(',', '')
             word = word.replace('.', '')
+            word = word.replace("'", '')
             word = word.replace("'s", '')
             print word
             #word_type = pos_tag(word.split())
@@ -48,5 +51,10 @@ with open(file_dir, 'r', encoding='utf-8-sig') as open_file:
 
 
                 print 'Lexname: ' + str(syn.lexname())
+                if syn.lexname() == 'noun.person':
+                    if word not in people:
+                        people.append(word)
+
                 print 'Lemmas: ' + str(syn.lemma_names())
                 print ''
+        print people
