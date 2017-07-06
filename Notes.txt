@@ -1,7 +1,3 @@
-This is the computer science department. We are in Ormskirk.
-
-
-
 Topic modelling (scikit-learn) : Latent Dirichlet Allocation
 
 (Example of LDA topic modelling in Python : http://scikit-learn.org/stable/auto_examples/applications/topics_extraction_with_nmf_lda.html)
